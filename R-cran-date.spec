@@ -1,5 +1,5 @@
 %define		fversion	%(echo %{version} |tr r -)
-%define         modulename	date
+%define		modulename	date
 Summary:	Functions for handling dates
 Summary(pl):	Functions do obs³ugi dat
 Name:		R-cran-%{modulename}
