@@ -1,7 +1,7 @@
 %define		fversion	%(echo %{version} |tr r -)
 %define		modulename	date
 Summary:	Functions for handling dates
-Summary(pl):	Functions do obs³ugi dat
+Summary(pl):	Funkcje do obs³ugi dat
 Name:		R-cran-%{modulename}
 Version:	1.2r18
 Release:	1
