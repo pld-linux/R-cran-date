@@ -3,12 +3,12 @@
 Summary:	Functions for handling dates
 Summary(pl.UTF-8):	Funkcje do obsługi dat
 Name:		R-cran-%{modulename}
-Version:	1.2r18
-Release:	2
+Version:	1.2r33
+Release:	1
 License:	GPL
 Group:		Applications/Math
 Source0:	ftp://stat.ethz.ch/R-CRAN/src/contrib/%{modulename}_%{fversion}.tar.gz
-# Source0-md5:	8bb9d6bc5cb0b06e250be6f478cf4c2a
+# Source0-md5:	9817f0770f4e176737dee03a853b3b2d
 BuildRequires:	R >= 2.8.1
 Requires(post,postun):	R >= 2.8.1
 Requires(post,postun):	perl-base
