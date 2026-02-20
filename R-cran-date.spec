@@ -4,7 +4,7 @@ Summary:	Functions for handling dates
 Summary(pl.UTF-8):	Funkcje do obsługi dat
 Name:		R-cran-%{modulename}
 Version:	1.2r33
-Release:	2
+Release:	3
 License:	GPL
 Group:		Applications/Math
 Source0:	ftp://stat.ethz.ch/R-CRAN/src/contrib/%{modulename}_%{fversion}.tar.gz
